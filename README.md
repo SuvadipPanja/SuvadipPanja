@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Suvadip%20Panja&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Suvadip Panja" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Suvadip%20Panja&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Suvadip Panja" />
 
 <a href="https://github.com/SuvadipPanja">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+AI+products+that+run+on-prem%2C+not+just+in+demos.;Speech+%E2%86%92+Text+%E2%86%92+LLM+%E2%86%92+Insight%2C+end+to+end.;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+SQL+Server+%C2%B7+Docker+%C2%B7+GPUs" alt="Typing intro" />
